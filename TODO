@@ -18,7 +18,7 @@
 
 
 
-1) Easy !
+1) Easy ! J'ai ajouté le notebook de "givemesomecredit" au git comme ça tu auras un exemple de projet ;) C'est un fichier .ipynb Tu ouvre "jupyter notebook" au même endroit et tu auras l'exemple !! Really useful !
 
 2) Je pense qu'il faut reperer les données qui sont utiles puis les transformer pour qu'elles puissent être utilisables parmi les 9 colonnes
 	Il faut distinguer plusieurs types de données :
@@ -33,14 +33,27 @@
 			- domaine d'activité
 			- l'âge
 			- l'année
-	Celles qui sont métriques, il n'y a pas besoin de toucher
+	Celles qui sont métriques, il n'y a pas besoin de toucher !
 	Les autres, il faut voir celles qu'on garde et qu'on juge utile et parmi celles-ci les transformer en dummies. (On en parle au tél :) )
 
 3) Alors là, il faut faire un k-fold (voir slides) : on divise notre set de données. On choisit nous même la proportion par exemple 70/30%. Et on sert des 30% pour tester notre algo. On obtient des résultats sur ces 30% à partir de l'entrainement sur les 70%. Et on calcule notre RMSE sur les données tests. On peut pas utiliser le vrai fichier test car on connait pas la vraie valeur cible ^^ 
 
-4) On verra....
+4) On verra...
 
 5) No idea yet !
+
+
+
+****************************************************************************************************************************************
+
+TODO Arezki
+
+
+
+TODO Pierre
+
+
+
 
 
 
